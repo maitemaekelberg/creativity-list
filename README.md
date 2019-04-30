@@ -64,6 +64,7 @@
 
 * https://medium.com/ - A place to read and write big ideas and important stories.
 * https://www.creativebloq.com/ - Daily inspiration for creative people. Fresh thinking, expert tips and tutorials to supercharge your creative muscles.
+* https://www.itsnicethat.com/ 
  
 ### Learning
 
