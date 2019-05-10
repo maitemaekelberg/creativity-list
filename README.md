@@ -82,6 +82,8 @@
 
 ### Color tools
 
+* https://material.io/tools/color - Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
+* https://www.materialpalette.com/ - Apply color palettes to your UI
 * https://geenes.app - Create a color scale in seconds, then export it to sketch or code
 * https://color.hailpixel.com - A minimal swatch picker
 * https://colorhunt.co - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
