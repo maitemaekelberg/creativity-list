@@ -254,8 +254,19 @@
 ### Analytics & monitoring
 
 * https://www.hotjar.com
+* https://www.usehawkeye.com
 
 ### Utilities
 
 * https://tripetto.app - Tripetto is an uncommon tool for creating and deploying powerful online interactions - Ultimately serving to change conventional forms to vivid conversations.
 * https://marky.space/redacted/ - Redact areas from images online - fast and easy.
+
+### Social Media
+
+* https://hootsuite.com - Manage all your social media in one place!
+
+### CRM
+
+* https://www.hubspot.com
+* https://www.salesforce.com - Salesforce is a CRM platform for supercharging every part of your company that interacts with customers — including marketing, sales, commerce, service, and more.
+* https://www.pipedrive.com/nl 
