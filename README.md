@@ -9,7 +9,7 @@
 * https://www.sketch.com - The digital design toolkit
 * https://www.framer.com - Bring your creative ideas to life with Framer X, the best tool for interactive design. Create responsive layouts, design realistic prototypes, and bring everything closer to production—all in one place.
 * https://icons8.com/lunacy - Lunacy is a native Windows app that opens, edits, and stores .sketch files. And it’s completely free.
-* https://www.invisionapp.com/ - The digital product design platform powering the world’s best user experiences.
+* https://www.invisionapp.com - The digital product design platform powering the world’s best user experiences.
 * https://marvelapp.com - The all-in-one platform powering design. 
 * https://www.adobe.com/be_en/products/xd.html - Adobe XD is made for designers like you, by designers like us. It’s the fastest way to design, prototype and share any user experience, from websites and mobile apps to voice interactions and more. And it’s free.
 * https://www.uxpin.com - UI Design and Prototyping Tool. Prototypes that feel real, with powers of code components, logic, states and design systems.
@@ -34,7 +34,6 @@
 * https://usepastel.com - Pastel is the easiest, and fastest way for web designers, developers, and agencies to collect feedback on the websites they're building.
 * https://contentsnare.com - Get Content From Your Clients Without The Hassle Content Snare helps digital agencies get website & marketing content from their clients on time, in the right format, without email.
 * https://flowmapp.com - FlowMapp is an online tool for creating visual Sitemaps and User Flows that helps you effectively design and plan User Experience.
-
 
 ### Animation
 
@@ -109,6 +108,12 @@
 
 * https://thenounproject.com - Over 2 Million curated icons, created by a global community.
 * https://www.ikonate.com - Customise, adjust and download free vector icons. Ikonate is an adaptable set of optimised, accessible SVG icons that use can easily use in both development and design apps such as Sketch and Photoshop.
+* https://www.svgator.com/ - Animate your svg's!
+
+
+### Content assets
+* https://brandfolder.com/workbench-suite - Your resource library of tools to power your assets.
+* https://styleguide.mailchimp.com - Content style guide. Tips & tricks to communicate properly. 
 
 
 ## Webdevelopment
@@ -271,3 +276,10 @@
 * https://www.salesforce.com - Salesforce is a CRM platform for supercharging every part of your company that interacts with customers — including marketing, sales, commerce, service, and more.
 * https://www.pipedrive.com/nl
 * https://public.teamleader.be
+
+
+## Branding
+
+### Styleguide platform
+
+* https://brandfolder.com/home - digital brand management 
