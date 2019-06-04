@@ -52,21 +52,21 @@
 * https://pageflows.com - User flow videos & screenshots to inspire you when you're stuck
 * http://collectui.com - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 * https://www.typewolf.com - What's trending in type
-* https://www.siteinspire.com/ - A CSS gallery and showcase of the best web design inspiration, featuring over 2500 websites searchable by type, subject, and style.
+* https://www.siteinspire.com - A CSS gallery and showcase of the best web design inspiration, featuring over 2500 websites searchable by type, subject, and style.
 * https://www.awwwards.com - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-* https://thefwa.com/ -  FWA's mission is to showcase cutting edge creativity, regardless of the medium or technology used.
-* https://thegallery.io/ - Minimal websites. A curated collection of interesting and original websites. 
-* https://www.cssdesignawards.com/ - A web design & development award platform for digital folk, UI/UX peeps and inspiring leaders of the web.
-* https://hoverstat.es/ - The home of alternative digital design. 
+* https://thefwa.com -  FWA's mission is to showcase cutting edge creativity, regardless of the medium or technology used.
+* https://thegallery.io - Minimal websites. A curated collection of interesting and original websites. 
+* https://www.cssdesignawards.com - A web design & development award platform for digital folk, UI/UX peeps and inspiring leaders of the web.
+* https://hoverstat.es - The home of alternative digital design. 
 * https://tympanus.net/codrops - Useful resources and inspiration for creative minds.
-* https://dribbble.com/ - Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.
+* https://dribbble.com - Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.
 * https://www.behance.net - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
 
 ### Inspirational blogs
 
-* https://medium.com/ - A place to read and write big ideas and important stories.
-* https://www.creativebloq.com/ - Daily inspiration for creative people. Fresh thinking, expert tips and tutorials to supercharge your creative muscles.
-* https://www.itsnicethat.com/ 
+* https://medium.com - A place to read and write big ideas and important stories.
+* https://www.creativebloq.com - Daily inspiration for creative people. Fresh thinking, expert tips and tutorials to supercharge your creative muscles.
+* https://www.itsnicethat.com 
 * https://www.smashingmagazine.com/ -  Articles for web designers and developers.
  
 ### Learning
@@ -78,22 +78,23 @@
 ### Font tools
 
 * http://typewonder.com - Helps you to test web fonts on any web site on the fly! Enter the site url and preview instantly the fonts with-out any hassle!
-* https://fontjoy.com/ - Generate font pairings in one click!
-* https://www.myfonts.com/WhatTheFont/ - Seen a font in use and want to know what it is? Upload an image to WhatTheFont to find the closest matches in the database.
+* https://fontjoy.com - Generate font pairings in one click!
+* https://www.myfonts.com/WhatTheFont - Seen a font in use and want to know what it is? Upload an image to WhatTheFont to find the closest matches in the database.
 
 ### Color tools
 
 * https://material.io/tools/color - Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
-* https://www.materialpalette.com/ - Apply color palettes to your UI
+* https://www.materialpalette.com - Apply color palettes to your UI
 * https://geenes.app - Create a color scale in seconds, then export it to sketch or code
 * https://color.hailpixel.com - A minimal swatch picker
 * https://colorhunt.co - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
 * https://www.colorbox.io - Create accessible color systems
-* http://jxnblk.com/hello-color/ - Color contrast generator
+* http://jxnblk.com/hello-color - Color contrast generator
 * https://abc.useallfive.com - A tool to make sure your brand colors are ADA compliant.
 * https://colorleap.app - Take a leap through time and see the colors of history.
 * https://colorspark.app - A simple tool to generate better colors and gradients.
 * http://khroma.co - Discover, search, and save color combinations you'll love. (With a trained AI model)
+* https://coolors.co - Color scheme generator
 
 ### Illustrations
 
