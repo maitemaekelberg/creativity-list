@@ -73,6 +73,7 @@
 * https://www.udemy.com - The world’s largest selection of courses. Choose from over 100,000 online video courses with new additions published every month.
 * https://www.skillshare.com - Thousands of classes to fuel your creativity and career.
 * https://learnux.io - UI Design Tools Video Courses.
+* https://2uts.com - Brush up on your skills with our guide to thousands of free tutorials.
 
 ### Font tools
 
@@ -108,7 +109,7 @@
 
 * https://thenounproject.com - Over 2 Million curated icons, created by a global community.
 * https://www.ikonate.com - Customise, adjust and download free vector icons. Ikonate is an adaptable set of optimised, accessible SVG icons that use can easily use in both development and design apps such as Sketch and Photoshop.
-* https://www.svgator.com/ - Animate your svg's!
+* https://www.svgator.com - Animate your svg's!
 
 
 ### Content assets
@@ -215,6 +216,7 @@
 
 * https://www.notion.so
 * https://www.nuclino.com
+* https://www.hellobonsai.com
 
 
 ## Cryptocurrency
@@ -283,3 +285,8 @@
 ### Styleguide platform
 
 * https://brandfolder.com/home - digital brand management 
+
+
+________
+# Other overviews of too:s
+https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers
