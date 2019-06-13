@@ -288,5 +288,5 @@
 
 
 ________
-# Other overviews of too:s
+### Other overviews of tools
 https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers
