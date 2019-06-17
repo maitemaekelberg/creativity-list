@@ -113,8 +113,13 @@
 
 
 ### Content assets
+
 * https://brandfolder.com/workbench-suite - Your resource library of tools to power your assets.
 * https://styleguide.mailchimp.com - Content style guide. Tips & tricks to communicate properly. 
+
+### Responsiveness
+
+http://screensiz.es/
 
 
 ## Webdevelopment
