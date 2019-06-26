@@ -295,4 +295,5 @@ http://screensiz.es/
 
 ________
 ### Other overviews of tools
-https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers
+
+* https://github.com/LisaDziuba/Awesome-Design-Tools#version-control-for-designers
