@@ -60,6 +60,7 @@
 * https://tympanus.net/codrops - Useful resources and inspiration for creative minds.
 * https://dribbble.com - Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.
 * https://www.behance.net - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
+* http://www.reallygoodemails.com - Newsletter design
 
 ### Inspirational blogs
 
