@@ -76,12 +76,13 @@
 * https://learnux.io - UI Design Tools Video Courses.
 * https://2uts.com - Brush up on your skills with our guide to thousands of free tutorials.
 
-### Font tools
+### Fonts
 
 * https://archetypeapp.com - Typography design tool!
 * http://typewonder.com - Helps you to test web fonts on any web site on the fly! Enter the site url and preview instantly the fonts with-out any hassle!
 * https://fontjoy.com - Generate font pairings in one click!
 * https://www.myfonts.com/WhatTheFont - Seen a font in use and want to know what it is? Upload an image to WhatTheFont to find the closest matches in the database.
+* http://www.velvetyne.fr - open source cool fonts
 
 ### Color tools
 
