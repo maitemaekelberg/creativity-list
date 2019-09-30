@@ -46,20 +46,22 @@
 
 ### Inspiration
 
+* * https://mindsparklemag.com - Mindsparkle Mag – High quality designblog highlighting the best of beautiful Design, Website and Video Projects
+* https://www.siteinspire.com - A CSS gallery and showcase of the best web design inspiration, featuring over 2500 websites searchable by type, subject, and style.
+* https://www.awwwards.com - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+* https://www.cssdesignawards.com - A web design & development award platform for digital folk, UI/UX peeps and inspiring leaders of the web.
+* https://thegallery.io - Minimal websites. A curated collection of interesting and original websites. 
+* https://dribbble.com - Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.
+* https://www.behance.net - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
+* http://collectui.com - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 * https://www.checklist.design - A collection of the best UX and UI practices.
 * https://www.pages.xyz - The best web pages around
 * https://pageflows.com - User flow videos & screenshots to inspire you when you're stuck
-* http://collectui.com - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 * https://www.typewolf.com - What's trending in type
-* https://www.siteinspire.com - A CSS gallery and showcase of the best web design inspiration, featuring over 2500 websites searchable by type, subject, and style.
-* https://www.awwwards.com - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+* https://muz.li - Designers' Secret Source. The best design inspiration - expertly curated for you.
 * https://thefwa.com -  FWA's mission is to showcase cutting edge creativity, regardless of the medium or technology used.
-* https://thegallery.io - Minimal websites. A curated collection of interesting and original websites. 
-* https://www.cssdesignawards.com - A web design & development award platform for digital folk, UI/UX peeps and inspiring leaders of the web.
 * https://hoverstat.es - The home of alternative digital design. 
 * https://tympanus.net/codrops - Useful resources and inspiration for creative minds.
-* https://dribbble.com - Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.
-* https://www.behance.net - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
 * http://www.reallygoodemails.com - Newsletter design
 
 ### Inspirational blogs
@@ -67,8 +69,8 @@
 * https://medium.com - A place to read and write big ideas and important stories.
 * https://www.creativebloq.com - Daily inspiration for creative people. Fresh thinking, expert tips and tutorials to supercharge your creative muscles.
 * https://www.itsnicethat.com 
-* https://www.smashingmagazine.com/ -  Articles for web designers and developers.
- 
+* https://www.smashingmagazine.com - Articles for web designers and developers.
+
 ### Learning
 
 * https://www.udemy.com - The world’s largest selection of courses. Choose from over 100,000 online video courses with new additions published every month.
@@ -107,12 +109,13 @@
 * https://gallery.manypixels.co - Each week, discover royalty-free illustrations to power up your projects.
 * https://absurd.design - Absurd illustrations that make sense
 
+
 ### Icons
 
 * https://thenounproject.com - Over 2 Million curated icons, created by a global community.
 * https://www.ikonate.com - Customise, adjust and download free vector icons. Ikonate is an adaptable set of optimised, accessible SVG icons that use can easily use in both development and design apps such as Sketch and Photoshop.
 * https://www.svgator.com - Animate your svg's!
-
+* https://jakearchibald.github.io/svgomg - Clean your svg's! 
 
 ### Content assets
 
@@ -123,9 +126,11 @@
 
 * http://screensiz.es
 
-
 ### Presentation
 * https://unblast.com/mockups
+* https://mrmockup.com - High Quality PSD Mockups to Showcase Your Work Like a Pro!
+* https://www.mockupworld.co/all-mockups 
+* https://graphicburger.com/tag/mock-up
 
 
 ## Webdevelopment
